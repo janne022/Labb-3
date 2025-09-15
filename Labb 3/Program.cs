@@ -1,9 +1,4 @@
-﻿CaseOne();
-CaseTwo();
-CaseThree();
-CaseFour();
-CaseFive();
-CaseSix();
+﻿CaseFour();
 
 void CaseOne()
 {
@@ -52,7 +47,7 @@ void CaseFour()
     {
         for (int j = 1; j <= i; j++)
         {
-            Console.WriteLine(i);
+            Console.Write(i);
         }
 
         Console.WriteLine();
